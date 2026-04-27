@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/usnistgov/cookiecutter-nist-python.git",
-  "commit": "b366cb4249abb697774dcd0eb055fad4a9588a43",
-  "checkout": "main",
+  "commit": "cee70585bdcd7f6583191968c63c7c9d1384be65",
+  "checkout": null,
   "context": {
     "cookiecutter": {
       "project_name": "cmomy",
@@ -15,11 +15,13 @@
       "command_line_interface": "none",
       "sphinx_use_autodocsumm": true,
       "sphinx_theme": "sphinx_book_theme",
+      "use_jupyter": false,
       "year": "2020",
       "__answers": "",
+      "__copier": false,
       "_copy_without_render": [],
       "_template": "https://github.com/usnistgov/cookiecutter-nist-python.git",
-      "_commit": "b366cb4249abb697774dcd0eb055fad4a9588a43"
+      "_commit": "cee70585bdcd7f6583191968c63c7c9d1384be65"
     }
   },
   "directory": null
